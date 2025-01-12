@@ -1,2 +1,2 @@
-# JobSphere---Job-Seeking-Website
-JobSphere is a modern job-seeking platform built with React.js, Node.js, and MongoDB, connecting job seekers and employers seamlessly.
+# JobSphere-Job-Seeking-Website
+JobSphere is an innovative job-seeking platform built with React.js, Node.js, and MongoDB. It connects job seekers with employers seamlessly, offering a user-friendly interface, efficient backend services, and secure data storage. Employers can list their companies, post job openings, and accept applications from candidates. Whether you're searching for your next job opportunity or looking to hire top talent, JobSphere provides a dynamic and responsive platform to manage job listings, applications, and profiles effectively.
